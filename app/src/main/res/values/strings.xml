@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="transparency">Transparency</string>
+    <string name="switch_image">Switch Image</string>
+    <string name="clickable">Clickable</string>
+    <string name="no_demos">No demos</string>
+    <string name="basic_map_demo_label">Basic Map</string>
+    <string name="basic_map_demo_description">Launches a map.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_features_list">FeaturesList</string>
+
+</resources>
+
